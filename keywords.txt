@@ -1,0 +1,14 @@
+SolarCar	KEYWORD1
+SetPWM1Pin	KEYWORD2
+SetPWM2Pin	KEYWORD2
+SetDirection1Pin	KEYWORD2
+SetDirection2Pin	KEYWORD2
+SetFeedbackPins	KEYWORD2
+SetRange	KEYWORD2
+SetSonarPins	KEYWORD2
+SetTriggerPin	KEYWORD2
+SetSpeed	KEYWORD2
+Trigger	KEYWORD2
+Steer	KEYWORD2
+SteerInitialize	KEYWORD2
+BrakeInitialize	KEYWORD2
